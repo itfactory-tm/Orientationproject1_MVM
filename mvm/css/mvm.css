@@ -1,0 +1,17 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Use Google fonts - Choose a nice color scheme - Use correct images in the appropriate file format
+ */
+
+html {
+    font-size: 16px;
+}
+
+body {
+    background-color: #eee;
+    color: darkblue;
+    font-size: 1rem;
+}
