@@ -1,10 +1,6 @@
 # 1ITF Orientation Project 1 Moeders voor moeders
 This is your team's repo for **Orientation project 1** with **Materialize CSS** in 1ITF.
 
-<p align="center">
-    <img src="https://www.thomasmore.be/themes/wundertheme/logo.svg" alt="Thomas More Kempen" width="300" />
-</p>
-
 ### README.md online customization by the team leader 🎓
 
 1. Please update the contents of this README.md here. Be sure to include your team name and team members. The further instructions may be omitted.
